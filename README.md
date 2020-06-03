@@ -29,3 +29,5 @@ Process we are following:
 - wiki: [github.com/testomatio/app/wiki](https://github.com/testomatio/app/wiki)
 - test automation demo projects: [github.com/testomatio/examples](https://github.com/testomatio/examples)
 - raise issue / request feature : https://github.com/testomatio/app/issues/new
+
+Need to make software testing or test automation for your project? Please request consulting [sdclabs.com](https://sdclabs.com)
