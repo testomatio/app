@@ -26,6 +26,7 @@ Process we are following:
 - telegram: [t.me/testomatio](https://t.me/testomatio)
 - telegram group: [t.me/testomatio_chat](https://t.me/testomatio_chat)
 - slack: [testomatio.herokuapp.com](https://testomatio.herokuapp.com)
+- linkedin: [linkedin.com/company/testomatio](https://www.linkedin.com/company/testomatio/)
 - wiki: [github.com/testomatio/app/wiki](https://github.com/testomatio/app/wiki)
 - test automation demo projects: [github.com/testomatio/examples](https://github.com/testomatio/examples)
 - raise issue / request feature : https://github.com/testomatio/app/issues/new
