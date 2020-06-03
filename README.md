@@ -1,4 +1,4 @@
-Testomat.io is a simplified test management system for your automated tests.
+[Testomat.io](https://testomat.io) is a simplified test management system for your automated tests.
 
 # Docs and wiki
 Testomat.io documents and instructions are located in project wiki pages:
