@@ -20,7 +20,7 @@ Process we are following:
 
 # Useful links
 
-- email us: hello@testomat.io
+- email us: testomatio@sdclabs.com
 - twitter: [twitter.com/testomatio](https://twitter.com/testomatio)
 - facebook: [fb.com/testomatio](https://fb.com/testomatio) 
 - telegram: [t.me/testomatio](https://t.me/testomatio)
