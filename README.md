@@ -32,4 +32,4 @@ Process we are following:
 - raise issue / request feature : https://github.com/testomatio/app/issues/new
 - Reporter: [github.com/testomatio/reporter](https://github.com/testomatio/reporter)
 
-Need to make software testing or test automation for your project? Please request consulting [sdclabs.com](https://sdclabs.com)
+Need to make software testing or test automation for your project? Please request consulting [zapple.tech](https://zapple.tech) or [sdclabs.com](https://sdclabs.com)
