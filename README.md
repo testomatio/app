@@ -1,6 +1,6 @@
-[Testomat.io](https://testomat.io) is a simplified test management system for your automated and manual tests.
+[Testomat.io](https://testomat.io) is a innovative test management system for automated and manual tests.
 
-It's a modern test management tool designed to improve the efficiency and effectiveness of our software testing processes.
+It's a modern test management tool designed to improve the efficiency and effectiveness of software testing processes.
 
 Testomat.io is about shift-left strategy, test automation first approach, continuous integration and continuous delivery, DevOps and TestOps practices. 
 
