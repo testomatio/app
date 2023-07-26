@@ -4,6 +4,7 @@ It's a modern QA tool designed to improve the efficiency and effectiveness of so
 
 Testomat.io is about shift-left strategy, test automation first approach, continuous integration and continuous delivery, DevOps and TestOps practices. 
 
+[Schedule a demo](https://calendly.com/testomatio/demo) to see system in action. No slides. Just practical use cases of QA workflows in real app.
 
 # Features
 
