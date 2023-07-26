@@ -1,6 +1,6 @@
-[Testomat.io](https://testomat.io) is a innovative test management system for automated and manual tests.
+[Testomat.io](https://testomat.io) is a test management system for automated and manual tests.
 
-It's a modern test management tool designed to improve the efficiency and effectiveness of software testing processes.
+It's a modern QA tool designed to improve the efficiency and effectiveness of software testing processes.
 
 Testomat.io is about shift-left strategy, test automation first approach, continuous integration and continuous delivery, DevOps and TestOps practices. 
 
@@ -13,9 +13,9 @@ Testomat.io is about shift-left strategy, test automation first approach, contin
 - **Integration with CI/CD and tracking tools:** Seamlessly integrates with our existing CI/CD tools, allowing for automated test execution. Link test to JIRA, Azure, Github, Gitlab, etc.
 
 ## Main Benefits
-- **Integration with popular testing frameworks**: Testomat.io seamlessly integrates with popular testing frameworks, allowing quick generation of reports for Cypress, CodeceptJS, Codeception, Playwright, TestCafe, Cucumber, Jest, Protractor, Mocha, and Chai. It also supports JUnit XML format integration for generating HTML reports for different programming languages and types of tests.
+- **Integration with popular testing frameworks**: Testomat.io seamlessly integrates with popular testing frameworks, allowing quick generation of reports for Cypress, CodeceptJS, Codeception, Playwright, TestCafe, Cucumber, Jest, Protractor, Mocha, and Chai, etc
 - **Real-time reporting**: Testomat.io provides real-time test result reporting, allowing feedback as soon as a test is completed. This is particularly beneficial for large-scale testing projects where test running goes for hours.
-- **Comprehensive test reports**: The test management tool builds a comprehensive real-time quality assurance report, featuring several logical sections including pie charts, test run charts, spot indicators, and more.
+- **Comprehensive analytics**: The test management tool builds a comprehensive real-time quality assurance widgets. Track flakiness, failures, defects, tags, envionrment, test automation coverage, user story coverage, and more.
 
 
 # How to Get Started
