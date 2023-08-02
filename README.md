@@ -6,6 +6,9 @@ Testomat.io is about shift-left strategy, test automation first approach, contin
 
 [Schedule a demo](https://calendly.com/testomatio/demo) to see system in action. No slides. Just practical use cases of QA workflows in real app.
 
+![image](https://github.com/testomatio/app/assets/325722/6892109e-77c8-497a-9ebc-41b4b89da7bd)
+
+
 # Features
 
 - **Test Case Management:** Allows us to create, manage, and organize our test cases in a structured and systematic manner.
