@@ -40,12 +40,11 @@ Tools that will help you make life easier.
 
 - sync classical automated tests by: [check-tests](https://github.com/testomatio/check-tests)
 - sync bdd / gherkin automated tests by: [check-cucumber](https://github.com/testomatio/check-tests)
-- report js/ts test results by: [reporter](https://github.com/testomatio/reporter)
+- report javascript / typescript test results by: [reporter](https://github.com/testomatio/reporter)
 - report python / pytest test results by: [pytestomatio](https://github.com/testomatio/pytestomatio)
 - report php test results by: [php-reporter](https://github.com/testomatio/php-reporter)
 - report junit xml format test results by: [report-xml](https://github.com/testomatio/reporter/blob/master/docs/junit.md)
 - jira plugin: [plugin on atlassian market](https://marketplace.atlassian.com/apps/1224120/testomatio)
-
 
 # Useful links
 
